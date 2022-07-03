@@ -1,3 +1,7 @@
+#files
+*.zip
+
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
